@@ -403,7 +403,7 @@ img {
 }
 
 .social-list-link:hover,
-.social-list-link:active {
+.social-list-link:focus {
   background-color: #404bbf;
 }
 
